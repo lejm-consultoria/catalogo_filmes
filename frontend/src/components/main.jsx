@@ -9,25 +9,25 @@ const featuredMovies = [
     rating: "4.9",
     year: "2024",
     synopsis: "A lone explorer uncovers secrets that pulsate with the very fabric of reality...",
-    imageUrl: "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=FILME+1+DESTAQUE", // Substitua por URLs reais da TMDb
+    imageUrl: "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sg9jrTGJ00aCXoTMyDpQS72xZU3.jpg", // Substitua por URLs reais da TMDb
     detailsUrl: "#" // Link para a página de detalhes do filme
   },
   {
     id: 2,
-    title: "A ÚLTIMA FRONTEIRA",
-    rating: "4.7",
+    title: "A Última Fronteira",
+    rating: "8.0",
     year: "2023",
-    synopsis: "Em um futuro distante, a humanidade busca um novo lar além das estrelas...",
-    imageUrl: "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=FILME+2+DESTAQUE",
+    synopsis: "Dezenas de prisioneiros violentos são libertados após o avião que os transportava cair numa remota região do Alasca. O único representante da lei no local deve proteger a cidade que ele jurou manter em segurança.",
+    imageUrl: "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sg9jrTGJ00aCXoTMyDpQS72xZU3.jpg",
     detailsUrl: "#"
   },
   {
     id: 3,
-    title: "SOMBRAS DA MEMÓRIA",
-    rating: "4.8",
-    year: "2025",
-    synopsis: "Um detetive com amnésia tenta desvendar um crime do qual ele pode ser a chave.",
-    imageUrl: "https://via.placeholder.com/1920x1080/000000/FFFFFF?text=FILME+3+DESTAQUE",
+    title: "Pacificador",
+    rating: "8.2",
+    year: "2022",
+    synopsis: "A série explorará as origens do Pacificador, um homem que acredita na paz a qualquer custo - não importa quantas pessoas ele tenha que matar para obtê-la.",
+    imageUrl: "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fbW4ym5rgMRkNjNAzpZQX5vkxMf.jpg",
     detailsUrl: "#"
   },
 ];
